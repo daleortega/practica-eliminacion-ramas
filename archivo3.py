@@ -1,1 +1,2 @@
-print('3er archivo, como la tercera estrella')
+print('En este archivo vamos a contarte algo importante')
+print('Ganamos la tercera estrella')
